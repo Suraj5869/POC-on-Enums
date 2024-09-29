@@ -1,0 +1,14 @@
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\Enums\Enums\bin\Debug\net8.0\Enums.exe
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\Enums\Enums\bin\Debug\net8.0\Enums.deps.json
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\Enums\Enums\bin\Debug\net8.0\Enums.runtimeconfig.json
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\Enums\Enums\bin\Debug\net8.0\Enums.dll
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\Enums\Enums\bin\Debug\net8.0\Enums.pdb
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\Enums\Enums\obj\Debug\net8.0\Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\Enums\Enums\obj\Debug\net8.0\Enums.AssemblyInfoInputs.cache
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\Enums\Enums\obj\Debug\net8.0\Enums.AssemblyInfo.cs
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\Enums\Enums\obj\Debug\net8.0\Enums.csproj.CoreCompileInputs.cache
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\Enums\Enums\obj\Debug\net8.0\Enums.dll
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\Enums\Enums\obj\Debug\net8.0\refint\Enums.dll
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\Enums\Enums\obj\Debug\net8.0\Enums.pdb
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\Enums\Enums\obj\Debug\net8.0\Enums.genruntimeconfig.cache
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\Enums\Enums\obj\Debug\net8.0\ref\Enums.dll
